@@ -12,3 +12,4 @@ gem 'thor'
 gem 'byebug', require: true
 gem 'rgl'
 gem 'rubytree'
+gem 'floyd_warshall'
